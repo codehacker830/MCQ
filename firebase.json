@@ -1,0 +1,55 @@
+{
+	"hosting": {
+		"public": "firebase-hosting",
+		"ignore": [
+			"**/.firebase/**",
+			"**/.git/**",
+			"**/.vscode/**",
+			"**/coverage/**",
+			"**/dist/**",
+			"**/lib/**",
+			"**/node_modules/**",
+			"**/pages/**",
+			"**/prototype/**",
+			"**/static/**",
+			"**/.*",
+			"**/firebase-debug.log",
+			"**/firebase.json",
+			"**/index.js",
+			"**/jest.config.js",
+			"**/next-env.d.ts",
+			"**/next-config.js",
+			"**/package.json",
+			"**/tsconfig.json",
+			"**/yarn.lock"
+		],
+		"rewrites": [
+			{
+				"source": "**/**",
+				"function": "app"
+			}
+		]
+	},
+	"functions": {
+		"source": "./dist",
+		"predeploy": ["yarn build"],
+		"ignore": [
+			"**/.firebase/**",
+			"**/.git/**",
+			"**/.vscode/**",
+			"**/coverage/**",
+			"**/firebase-hosting/**",
+			"**/lib/**",
+			"**/node_modules/**",
+			"**/pages/**/*.tsx",
+			"**/prototype/**",
+			"**/.*",
+			"**/firebase-debug.log",
+			"**/firebase.json",
+			"**/jest.config.js",
+			"**/next-env.d.ts",
+			"**/next-config.js",
+			"**/tsconfig.json"
+		]
+	}
+}

@@ -1,0 +1,111 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Logo default 1`] = `
+<div
+  className="Logo-sc-17c1jrd-1 cgZhdb"
+>
+  <img
+    alt=""
+    className="Logo__LogoImage-sc-17c1jrd-0 hUlpPj"
+    size={48}
+    src="test-file-stub"
+  />
+  <span
+    className="MuiTypography-root Logo__LogoText-sc-17c1jrd-2 MuiTypography-body1 MuiTypography-colorPrimary"
+  >
+    Join
+  </span>
+  <span
+    className="MuiTypography-root Logo__LogoText-sc-17c1jrd-2 MuiTypography-body1 MuiTypography-colorPrimary"
+  >
+    Uniform
+  </span>
+</div>
+`;
+
+exports[`Storyshots Logo large 1`] = `
+<div
+  className="Logo-sc-17c1jrd-1 cgZhdb"
+>
+  <img
+    alt=""
+    className="Logo__LogoImage-sc-17c1jrd-0 ieomBn"
+    size={64}
+    src="test-file-stub"
+  />
+  <span
+    className="MuiTypography-root Logo__LogoText-sc-17c1jrd-2 MuiTypography-body1 MuiTypography-colorPrimary"
+  >
+    Join
+  </span>
+  <span
+    className="MuiTypography-root Logo__LogoText-sc-17c1jrd-2 MuiTypography-body1 MuiTypography-colorPrimary"
+  >
+    Uniform
+  </span>
+</div>
+`;
+
+exports[`Storyshots Logo shadowed 1`] = `
+<div
+  className="Logo-sc-17c1jrd-1 eeyTpi"
+>
+  <img
+    alt=""
+    className="Logo__LogoImage-sc-17c1jrd-0 hUlpPj"
+    size={48}
+    src="test-file-stub"
+  />
+  <span
+    className="MuiTypography-root Logo__LogoText-sc-17c1jrd-2 MuiTypography-body1 MuiTypography-colorPrimary"
+  >
+    Join
+  </span>
+  <span
+    className="MuiTypography-root Logo__LogoText-sc-17c1jrd-2 MuiTypography-body1 MuiTypography-colorPrimary"
+  >
+    Uniform
+  </span>
+</div>
+`;
+
+exports[`Storyshots Logo two tone 1`] = `
+<div
+  className="Logo-sc-17c1jrd-1 cgZhdb"
+>
+  <img
+    alt=""
+    className="Logo__LogoImage-sc-17c1jrd-0 hUlpPj"
+    size={48}
+    src="test-file-stub"
+  />
+  <span
+    className="MuiTypography-root Logo__LogoText-sc-17c1jrd-2 MuiTypography-body1 MuiTypography-colorPrimary"
+  >
+    Join
+  </span>
+  <span
+    className="MuiTypography-root Logo__LogoText-sc-17c1jrd-2 MuiTypography-body1 MuiTypography-colorSecondary"
+  >
+    Uniform
+  </span>
+</div>
+`;
+
+exports[`Storyshots StickyFooter default 1`] = `
+<div
+  className="StickyFooter-pddbet-0"
+>
+  StickyFooter
+  <footer
+    className="StickyFooter__StickyFooterText-pddbet-1 bDhSqg"
+  >
+    <span
+      className="MuiTypography-root MuiTypography-caption MuiTypography-colorTextPrimary"
+    >
+      Copyright : Eduphilic Consultancy Pvt Ltd 
+      2019
+    </span>
+  </footer>
+</div>
+`;

@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "itf_rupeeregular";
+  src: url("itf-rupee-webfont.woff2") format("woff2"),
+    url("itf-rupee-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}

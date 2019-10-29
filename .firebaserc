@@ -1,0 +1,6 @@
+{
+	"projects": {
+		"default": "joinuniformindia",
+		"staging": "joinuniformindia-test"
+	}
+}
